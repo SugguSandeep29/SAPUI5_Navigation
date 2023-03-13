@@ -1,0 +1,9 @@
+<mvc:View controllerName="monday.controller.page1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+    <Page id="page" title="HI Welcome : Page - 01 :)">
+        <content>
+            <Button id="b1" text="Click: Button 01 - To Page 02" press=".onPress" />
+        </content>
+    </Page>
+
+    <App id="app" />
+</mvc:View>

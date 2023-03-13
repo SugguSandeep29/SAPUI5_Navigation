@@ -1,0 +1,12 @@
+<mvc:View controllerName="monday.controller.page2"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+ 
+
+    <Page id="page" title="Welcome: Page - 02 :)" showNavButton="true" navButtonPress="oNavButton_press">
+    <content />
+    </Page> 
+       <App id="app">
+    </App>
+ </mvc:View>
